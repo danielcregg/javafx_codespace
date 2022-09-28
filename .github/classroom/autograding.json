@@ -1,0 +1,44 @@
+{
+    "tests": [  
+        {
+            "name": "Test Exercise 1",
+            "setup": "",
+            "run": "./bin/run_test.sh Exercise1",
+            "input": "",
+            "output": "",
+            "comparison": "included",
+            "timeout": 2,
+            "points": 25
+        },
+        {
+            "name": "Test Exercise 2",
+            "setup": "",
+            "run": "./bin/run_test.sh Exercise2",
+            "input": "",
+            "output": "",
+            "comparison": "included",
+            "timeout": 2,
+            "points": 25
+        },
+        {
+            "name": "Test Exercise 3",
+            "setup": "",
+            "run": "./bin/run_test.sh Exercise3",
+            "input": "",
+            "output": "",
+            "comparison": "included",
+            "timeout": 2,
+            "points": 25
+        },
+        {
+            "name": "Test Exercise 4",
+            "setup": "",
+            "run": "./bin/run_test.sh Exercise4",
+            "input": "",
+            "output": "",
+            "comparison": "included",
+            "timeout": 2,
+            "points": 25
+        }
+    ]
+}  

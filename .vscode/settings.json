@@ -1,0 +1,19 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.enableAppInsights": false,
+    "code-runner.fileDirectoryAsCwd": true,
+    "code-runner.ignoreSelection": true,
+    "code-runner.runInTerminal": true,
+    "code-runner.saveFileBeforeRun": true,
+    "files.exclude": {
+        ".github": true, 
+        ".devcontainer": true,
+        "bin": true,
+        "test": true,
+        "target": true,
+        "docs": true,
+        ".gitignore": true,
+        ".vscode": true
+      }
+}
